@@ -1,15 +1,16 @@
-# TODO App
+# chatappui
 
-A task management app.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-1. MVVM architecture
-2. Add tasks.
-3. Edit tasks.
-4. Delete tasks.
-5. Task details.
-6. Task complition
-7. Parse server (Back4App)
-8. Search tasks
-9. Dark theme light theme switch by system.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
